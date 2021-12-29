@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "markserv ./"
+  },
+  "name": "documents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zzoman/Documents.git"
+  },
+  "author": "zzoman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzoman/Documents/issues"
+  },
+  "homepage": "https://github.com/zzoman/Documents#readme",
+  "description": "",
+  "dependencies": {
+    "markserv": "^1.17.4"
+  }
+}
